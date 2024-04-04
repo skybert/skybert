@@ -1,5 +1,4 @@
-# SKYBERT(1)         CV             SKYBERT(1)
-
+# SKYBERT(1) CV SKYBERT(1) 
 
 ## NAME
 skybert — Torstein Krause Johansen
@@ -18,19 +17,19 @@ Significant experience with app security, integrating it with CI/CD and securing
 
 
 ## EXPERIENCE
-— Stibo DX, System architect, 2015 →
-— Conduct AS, Senior consultant, 2013 – 2015
-— Escenic, System architect, 2008 – 2013
-— Escenic, Senior consultant, 2005 – 2008
-— CoreMedia AG, Technical Consultant, 2004 – 2005
-— Splendid Internet GmbH, Developer, 2003 – 2004
-— Opera Software, Intern, 2001 – 2002
+- Stibo DX, System architect, 2015 →
+- Conduct AS, Senior consultant, 2013 – 2015
+- Escenic, System architect, 2008 – 2013
+- Escenic, Senior consultant, 2005 – 2008
+- CoreMedia AG, Technical Consultant, 2004 – 2005
+- Splendid Internet GmbH, Developer, 2003 – 2004
+- Opera Software, Intern, 2001 – 2002
 
 
 ## EDUCATION
-— MSc Human Resource Management, The University of Stirling, 2002-2003
-— BSc Computer science, Østfold University College, 1999-2002
-— Business English, Østfold University College, 1998-1999
+- MSc Human Resource Management, The University of Stirling, 2002-2003
+- BSc Computer science, Østfold University College, 1999-2002
+- Business English, Østfold University College, 1998-1999
 
 
 ## LANGUAGES
@@ -52,37 +51,37 @@ Significant experience with app security, integrating it with CI/CD and securing
 
 
 ## TECHNOLOGY
-— Linux: Debian, Ubuntu, RHEL, CentOS, SuSE, Arch
-— UNIX: HP-UX, Solaris, FreeBSD, OpenBSD
-— Java: JAX-RS, JPA, XOM, Lombok
-— Python: Flask, jinja2, lxml, PyYAML, requests
-— IAM: OAuth2, OpenID Connect, Keycloak, Gluu, Okta, Azure AD
-— Database: Oracle, MySQL, Percona, MariaDB, PostgreSQL, Derby
-— In-memory: Redis, Hazelcast
-— LDAP: OpenLDAP, Active Directory
-— Web: Apache, Nginx, lighthttpd, Varnish, Squid
-— BASH: sed, awk, curl, jq
-— Containers: LXD, Docker, Kubernetes, Openshift
-— Virtual: KVM, VirtualBox, VMware
-— Network security: Burp suite, nmap, dig
-— Device security: nftables, iptables, LUKS, ssh
-— App security: Sonarqube, OWASP
+- Linux: Debian, Ubuntu, RHEL, CentOS, SuSE, Arch
+- UNIX: HP-UX, Solaris, FreeBSD, OpenBSD
+- Java: JAX-RS, JPA, XOM, Lombok
+- Python: Flask, jinja2, lxml, PyYAML, requests
+- IAM: OAuth2, OpenID Connect, Keycloak, Gluu, Okta, Azure AD
+- Database: Oracle, MySQL, Percona, MariaDB, PostgreSQL, Derby
+- In-memory: Redis, Hazelcast
+- LDAP: OpenLDAP, Active Directory
+- Web: Apache, Nginx, lighthttpd, Varnish, Squid
+- BASH: sed, awk, curl, jq
+- Containers: LXD, Docker, Kubernetes, Openshift
+- Virtual: KVM, VirtualBox, VMware
+- Network security: Burp suite, nmap, dig
+- Device security: nftables, iptables, LUKS, ssh
+- App security: Sonarqube, OWASP
 
 ## PERFORMANCE TUNING
-— Allow running Linux on work machine
-— Allow contributing to open source
-— Send to conference every now and then
+- Allow running Linux on work machine
+- Allow contributing to open source
+- Send to conference every now and then
 
 ## KNOWN ISSUES
-— Impatient
-— Prefers dark office
-— Loves mechanical keyboards
+- Impatient
+- Prefers dark office
+- Loves mechanical keyboards
 
 ## SEE ALSO
-— 🕸️ https://skybert.net
-— 🦣 https://emacs.ch/@skybert
-— 🎥 https://youtube.com/@skybert
-— ⚒️ https://github.com/skybert
-— 🛠️ https://gitlab.com/skybert
+- 🕸️ https://skybert.net
+- 🦣 https://emacs.ch/@skybert
+- 🎥 https://youtube.com/@skybert
+- ⚒️ https://github.com/skybert
+- 🛠️ https://gitlab.com/skybert
 
 # BSD                       2024-02-20                          BSD
